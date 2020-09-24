@@ -1,4 +1,4 @@
-# tabbar
+# vuetabbar
 
 ## Project setup
 ```
